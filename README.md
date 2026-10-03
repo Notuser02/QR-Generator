@@ -54,7 +54,7 @@ Key Features:-
 
  100% Client-Side: No data is sent to external servers; your data stays entirely in your browser.
 
-Built With:_
+Built With:-
 
 React: For managing the interactive user interface and live updates.
 
@@ -63,3 +63,5 @@ Tailwind CSS: For clean, modern, and responsive styling.
 Lucide React: For icons.
 
 react-qr-code: For generating the visual QR code structures.
+
+checkout the website at : https://qr-generator-flame-iota-24.vercel.app/
